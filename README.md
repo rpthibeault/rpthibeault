@@ -1,6 +1,6 @@
 ## Raphaël Pinsonneault-Thibeault
 
-I am a Linux Kernel Developer based in Montreal, Canada.
+I am a Software Developer based in Montreal, Canada.
 
 - My blog: [rpthibeault.github.io](https://rpthibeault.github.io/)
 
@@ -8,11 +8,11 @@ I am a Linux Kernel Developer based in Montreal, Canada.
 
 ### Current Focus
 
-My primary focus is on Linux Kernel Development. 
-> I have completed the Linux Foundation's Linux Kernel Mentorship Program (Fall 2025)
+My current focus is on embedded development.
 
 ### Open Source Contributions
 
+> I have completed the Linux Foundation's Linux Kernel Mentorship Program (Fall 2025)
 I am actively contributing to the Linux Kernel. 
 
 * View my activity and patch submissions in the Linux Kernel Mailing Lists [on lore.kernel.org](https://lore.kernel.org/all/?q=Raphael%20Pinsonneault-Thibeault)
